@@ -4,7 +4,7 @@
 🗺️ I love to play Minecraft  
 🌯 Fun fact: when you accepting EULA in Minecraft server's eula.txt, you accepting burritos are tasty! 
 #### Highlight:
-- [Using custom emojis in discord](https://gist.github.com/timaaos/d2c9ac6976be2413db45e6b5e0ae2efb)
+- [Using custom emojis in GitHub](https://gist.github.com/timaaos/d2c9ac6976be2413db45e6b5e0ae2efb)
 <!--
 **timaaos/timaaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
