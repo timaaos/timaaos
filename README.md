@@ -1,4 +1,4 @@
-![7580-pepe-happy](https://discordbanners.com/assets/banners/2654-shake.gif)
+![7580-pepe-happy](https://discordbanners.com/assets/banners/6867-minecraft-axolotl.png)
 ### Hi there 👋
 🌱 I am making games and random things  
 🗺️ I love to play Minecraft  
