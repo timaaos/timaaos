@@ -1,4 +1,4 @@
-![7580-pepe-happy](https://user-images.githubusercontent.com/75538611/123547272-ca90f400-d768-11eb-8797-3bcfb23be277.png)
+![7580-pepe-happy](https://discordbanners.com/assets/banners/2654-shake.gif)
 ### Hi there 👋
 🌱 I am making games and random things  
 🗺️ I love to play Minecraft  
