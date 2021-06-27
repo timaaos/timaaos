@@ -1,5 +1,8 @@
+![7580-pepe-happy](https://user-images.githubusercontent.com/75538611/123547272-ca90f400-d768-11eb-8797-3bcfb23be277.png)
 ### Hi there 👋
-
+🌱 I am making games and random things  
+🗺️ I love to play Minecraft  
+🌯 Fun fact: when you accepting EULA in Minecraft server's eula.txt, you accepting burritos are tasty! 
 <!--
 **timaaos/timaaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
