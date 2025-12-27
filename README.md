@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-modrinth: (https://modrinth.com/user/timaaos)[https://modrinth.com/user/timaaos]
+modrinth: https://modrinth.com/user/timaaos
